@@ -180,7 +180,7 @@ p.abt-para {
 }
 h3.tittle:after, h3.tittle:before {
     border: 4px double #c2c2c2;
-    width: 120px;
+    width: 140px;
     display: inline-block;
     content: "";
     margin: 9px 10px;
@@ -202,7 +202,7 @@ h3.tittle:after, h3.tittle:before {
     font-size: 22px;
 }
 .abt-left {
-    padding: 120px 100px 0;
+    padding: 140px 100px 0;
 	min-height:610px;
 }
 .abt-left h2 {
@@ -318,7 +318,7 @@ a.accordion-section-title span {
     border: 1px solid #B1B1B1;
     padding: 42px 35px 0px 0px;
     border-right: none;
-    min-height: 120px;
+    min-height: 140px;
     border-top: none;
 }
 .employ-right p {
@@ -342,14 +342,14 @@ a.accordion-section-title span {
 }
 .employ-left{
     padding: 53px 35px 0px 0px;
-    min-height: 120px;
+    min-height: 140px;
 }
 .employ-left2{
     padding: 42px 0px 0px 35px;
     border: none;
     border-bottom: 1px solid #B1B1B1;
     border-top: 1px solid #B1B1B1;
-    min-height: 120px;
+    min-height: 140px;
 }
 .employ-left2 h5 {
     text-align: right;
@@ -373,7 +373,7 @@ a.accordion-section-title span {
 .employ-right2 {
     padding: 53px 0px 0px 35px;
     border-left: 1px solid #B1B1B1;
-    min-height: 120px;
+    min-height: 140px;
     border-bottom: 1px solid #B1B1B1;
 }
 .border-emp{

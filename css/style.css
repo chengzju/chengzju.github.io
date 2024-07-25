@@ -318,7 +318,7 @@ a.accordion-section-title span {
     border: 1px solid #B1B1B1;
     padding: 42px 35px 0px 0px;
     border-right: none;
-    min-height: 150px;
+    min-height: 120px;
     border-top: none;
 }
 .employ-right p {
@@ -342,14 +342,14 @@ a.accordion-section-title span {
 }
 .employ-left{
     padding: 53px 35px 0px 0px;
-    min-height: 150px;
+    min-height: 120px;
 }
 .employ-left2{
     padding: 42px 0px 0px 35px;
     border: none;
     border-bottom: 1px solid #B1B1B1;
     border-top: 1px solid #B1B1B1;
-    min-height: 150px;
+    min-height: 120px;
 }
 .employ-left2 h5 {
     text-align: right;
@@ -373,7 +373,7 @@ a.accordion-section-title span {
 .employ-right2 {
     padding: 53px 0px 0px 35px;
     border-left: 1px solid #B1B1B1;
-    min-height: 150px;
+    min-height: 120px;
     border-bottom: 1px solid #B1B1B1;
 }
 .border-emp{

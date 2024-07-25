@@ -349,7 +349,7 @@ a.accordion-section-title span {
     border: none;
     border-bottom: 1px solid #B1B1B1;
     border-top: 1px solid #B1B1B1;
-    min-height: 200px;
+    min-height: 150px;
 }
 .employ-left2 h5 {
     text-align: right;
